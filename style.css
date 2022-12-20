@@ -15,8 +15,12 @@ div.somos{
 div.realizamos{
     background-color: orange;
 }
-span.sueño{
+footer{
     background-color: blue;
     text-align: center;
     display: block;
+}
+span.sueño{
+    background-color: yellow;
+
 }
