@@ -15,8 +15,9 @@ div.somos{
 div.realizamos{
     background-color: orange;
 }
-div.sueño{
+span.sueño{
     background-color: blue;
     text-align: center;
-    
+    display: block;
+
 }
